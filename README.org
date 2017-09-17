@@ -1,0 +1,13 @@
+#+TITLE: Ορφέας Άλφα controller
+#+AUTHOR: Stefanos Carlström
+#+EMAIL: stefanos.carlstrom@gmail.com
+
+Small breakout board for a NodeMCU microcontroller to be used in
+conjunction with a [[http://github.com/jagot/orpheus-alpha][Ορφέας Άλφα]] preamplifier. The board provides
+connectability to a rotary encoder and an optional Neopixel ring (for
+e.g. volume level display). Since the NodeMCU provides WiFi connection
+as well, the board can (if desired) be used without a rotary encoder.
+
+[[orpheus-alpha-ctrl.pdf][Schematic]]
+
+[[orpheus-alpha-ctrl.png]]
